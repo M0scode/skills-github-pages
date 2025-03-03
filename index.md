@@ -4,7 +4,7 @@ title: Welcome to my blog
 # Welcome to My GitHub Pages!
 
 ## 👋 About Me
-Hi, I'm [Your Name], a Data Scientist passionate about Machine Learning, NLP, and Data Analytics. 
+Hi, I'm Sandiso Magwaza, a Data Scientist passionate about Machine Learning, NLP, and Data Analytics. 
 
 ## 🚀 Projects
 - **Anime Recommender System**: A machine-learning-based recommendation engine. [View on GitHub](#)
